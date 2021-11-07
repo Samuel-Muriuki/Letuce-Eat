@@ -26,7 +26,7 @@
 ### How to view the webpage.
 ****
 Click on the link bellow to view the street food site.
-
+https://samuel-muriuki.github.io/Letuce-Eat/
 ****
 [Go Back to the top](#letuce-eat)
 ## Technology In Use
