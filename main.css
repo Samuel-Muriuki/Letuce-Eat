@@ -250,6 +250,11 @@ button {
     float: left;
 }
 
+.d-grid {
+    display: flex;
+    float: left;
+}
+
 .grid-3 {
     width: 750px;
     height: 400px;
