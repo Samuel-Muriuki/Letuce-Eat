@@ -122,3 +122,45 @@ button {
     text-align: center;
     font: 32px 'Roboto';
 }
+
+
+.cont-3 {
+    display: flex;
+}
+
+.revs {
+    width: 50%;
+    background-color: black;
+    color: white;
+    text-align: center;
+
+}
+
+.underline {
+    --position: center bottom;
+    --width: 50px;
+    --color: white;
+    --height: 3px;
+    background: linear-gradient(var(--color), var(--color)) var(--position) / var(--width) var(--height) no-repeat;
+}
+
+.cont-3>.revs>h2 {
+    padding-top: 200px;
+}
+
+.cont-3>.revs>h3 {
+    padding-top: 50px;
+    padding-bottom: 20px;
+}
+
+.cont-3>.revs>p {
+    line-height: 30px;
+}
+
+.cont-3>.revs>.bold {
+    font-size: 20px;
+}
+
+.align {
+    text-align: center;
+}
