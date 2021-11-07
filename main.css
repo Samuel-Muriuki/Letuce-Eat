@@ -317,3 +317,33 @@ button {
     object-fit: cover;
     display: block;
 }
+
+
+.cont-5 {
+    width: 100%;
+    height: 45em;
+    padding: 1.5rem;
+    background-image: url(imgs/img_8.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    text-align: center;
+    color: white;
+}
+
+.cont-5>h3 {
+    padding-top: 200px;
+    font-weight: 500;
+    font-size: 26px;
+}
+
+.cont-5 h2 {
+    font-weight: 600;
+    padding: 60px;
+}
+
+.bn {
+    box-sizing: border-box;
+    width: 250px;
+    margin-left: 860px;
+    border: 3px solid white;
+}
