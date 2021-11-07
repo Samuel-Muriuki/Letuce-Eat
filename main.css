@@ -73,3 +73,10 @@ button {
 .orng {
     color: #F19201;
 }
+
+.cont-2 {
+    height: 50em;
+    padding: 1.5rem;
+    text-align: center;
+    background-color: #E1DFDF;
+}
