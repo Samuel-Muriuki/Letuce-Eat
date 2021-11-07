@@ -80,3 +80,16 @@ button {
     text-align: center;
     background-color: #E1DFDF;
 }
+
+.flexbox-container {
+    display: flex;
+}
+
+.flexbox-1 {
+    width: 25%;
+    height: 400px;
+    margin-left: 150px;
+    margin-top: 50px;
+    background-color: white;
+
+}
