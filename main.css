@@ -8,6 +8,9 @@
     background-size: cover;
 }
 
+.bk-img .cont-1 li span {
+    font-weight: 800;
+}
 .cont-1 {
     height: 50em;
 }
